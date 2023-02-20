@@ -11,7 +11,7 @@ A fast, light-weight before and after image slider for React applications.
 ### Installation
 
 ```
-npm i react-bna
+npm i react-bna-modern
 ```
 
 
