@@ -1,6 +1,6 @@
 {
 	"name": "react-bna-modern",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "A lightweight, before and after image slider component for React. Upgraded to support modern React.",
 	"homepage": "https://sliderbna.netlify.app",
 	"keywords": [
